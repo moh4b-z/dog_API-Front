@@ -83,6 +83,7 @@ main{
     width: 100%;
     height: auto; 
     transition: 0.5s;
+    border-radius: 10px;
 }
 
 #galeria img:hover{
